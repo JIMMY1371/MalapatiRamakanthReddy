@@ -35,3 +35,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malapatiramakanthreddy&show_icons=true&locale=en&layout=compact" alt="malapatiramakanthreddy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malapatiramakanthreddy&show_icons=true&locale=en" alt="malapatiramakanthreddy" /></p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/MalapatiRamakanthReddy/count.svg" />
+</p>
